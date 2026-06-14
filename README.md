@@ -125,8 +125,6 @@ Key areas explored included:
 
 ![Lead time and market segment heatmap](lead_time_market_segment_heatmap.jpg)
 
-![Random Forest feature importance](random_forest_feature_importance.jpg)
-
 ## Key Findings
 
 ### Lead time was the strongest cancellation-related factor
@@ -204,6 +202,8 @@ The most important predictors in the Random Forest model were:
 - Online market segment
 
 These results aligned with the EDA findings, especially the importance of lead time, market segment, special requests, and pricing.
+
+![Random Forest feature importance](random_forest_feature_importance.jpg)
 
 ## Business Recommendations
 
