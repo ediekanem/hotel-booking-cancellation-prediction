@@ -125,6 +125,8 @@ Key areas explored included:
 
 ![Lead time and market segment heatmap](lead_time_market_segment_heatmap.jpg)
 
+![Special requests and lead time heatmap](special_requests_lead_time_heatmap.jpg)
+
 ## Key Findings
 
 ### Lead time was the strongest cancellation-related factor
